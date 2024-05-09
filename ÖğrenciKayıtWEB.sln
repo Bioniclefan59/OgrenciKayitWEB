@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÖğrenciKayıtWEB", "ÖğrenciKayıtWEB\ÖğrenciKayıtWEB.csproj", "{BFE87D0D-6ED4-4BAC-ACB7-E9690402DF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciKayitAPI", "OgrenciKayitAPI\OgrenciKayitAPI.csproj", "{577F4EA7-7E84-4734-8A25-0067F5DDD51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE87D0D-6ED4-4BAC-ACB7-E9690402DF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE87D0D-6ED4-4BAC-ACB7-E9690402DF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE87D0D-6ED4-4BAC-ACB7-E9690402DF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE87D0D-6ED4-4BAC-ACB7-E9690402DF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577F4EA7-7E84-4734-8A25-0067F5DDD51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577F4EA7-7E84-4734-8A25-0067F5DDD51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577F4EA7-7E84-4734-8A25-0067F5DDD51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577F4EA7-7E84-4734-8A25-0067F5DDD51B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1253197C-D5FD-4E09-B860-A6FCDEEB6729}
+	EndGlobalSection
+EndGlobal
